@@ -4,4 +4,4 @@ Deploy Flask application
 Work item 28
 
 
-Resolve the issue
+Resolve the issue wi 28
